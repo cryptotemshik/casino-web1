@@ -19,7 +19,7 @@ const Layout = ({
                 </div>
             </main>
             <footer className="bg-black text-white p-4 text-center">
-                <p>&copy; 2025 www.fasagame.com</p>
+                <p>&copy; 2025 www.nexorgame.com</p>
             </footer>
         </div>
     )
