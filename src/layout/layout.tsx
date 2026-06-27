@@ -22,7 +22,7 @@ const Layout = ({
                 <p>&copy; 2025 www.nexorgame.com</p>
                  <p className="mt-2">
                     <a
-                        href="https://t.me/xxx"
+                        href="https://t.me/nexorgamesol"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:underline"
@@ -31,7 +31,7 @@ const Layout = ({
                     </a>
                     {" | "}
                     <a
-                        href="https://x.com/xxx"
+                        href="https://x.com/nexorgamesol"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:underline"
