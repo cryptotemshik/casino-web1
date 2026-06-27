@@ -20,6 +20,27 @@ const Layout = ({
             </main>
             <footer className="bg-black text-white p-4 text-center">
                 <p>&copy; 2025 www.nexorgame.com</p>
+                 <p className="mt-2">
+                    <a
+                        href="https://t.me/xxx"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="hover:underline"
+                    >
+                        Telegram
+                    </a>
+                    {" | "}
+                    <a
+                        href="https://x.com/xxx"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="hover:underline"
+                    >
+                        X
+                    </a>
+                    {" | "}
+                    <span>CA: XXX</span>
+                </p>
             </footer>
         </div>
     )
